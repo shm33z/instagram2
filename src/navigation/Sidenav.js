@@ -60,7 +60,7 @@ function Sidenav() {
         </button>
         <button className="sidenav__button">
           <Avatar>
-            {user.username ? user.username.charAt(0).toUpperCase() : "A"}
+            {user.username ? user.username.charAt(0).toUpperCase() : "S"}
           </Avatar>
           <span>
             {user.username}{" "}

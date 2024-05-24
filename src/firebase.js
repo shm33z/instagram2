@@ -1,19 +1,16 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCXyJAggdftc1y1gcUu-SWlgwe-TaThP_A",
-  authDomain: "instagram-clone-6fa4d.firebaseapp.com",
-  projectId: "instagram-clone-6fa4d",
-  storageBucket: "instagram-clone-6fa4d.appspot.com",
-  messagingSenderId: "717508443850",
-  appId: "1:717508443850:web:f9eee947387c9d1f82fe33",
+  apiKey: "AIzaSyC6pN363857llpKBPW-uKuYdlMrrtzzVIM",
+  authDomain: "instagram-clone-138dc.firebaseapp.com",
+  projectId: "instagram-clone-138dc",
+  storageBucket: "instagram-clone-138dc.appspot.com",
+  messagingSenderId: "204797461769",
+  appId: "1:204797461769:web:1f304a44eb9518e12a7fd8",
+  measurementId: "G-L4DJEB26XZ",
 };
 
-// Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
 export const auth = getAuth();

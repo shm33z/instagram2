@@ -10,10 +10,10 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>M</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">Shmeez</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -23,10 +23,10 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>M</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">Shmeez</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -36,10 +36,10 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>M</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">Shmeez</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -49,10 +49,10 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>M</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">Shmeez</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
